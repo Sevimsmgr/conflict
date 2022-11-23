@@ -13,3 +13,7 @@ branch ekleme
 3.gun ilk denemeeee
 
 3.gun ikinci denemeeeee
+
+3.gun 3.denmeeee V7 commit
+
+yaliz  branch 3.gun deneme1
