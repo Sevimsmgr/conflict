@@ -14,6 +14,19 @@ branch ekleme
 
 3.gun ikinci denemeeeee
 
+
 3.gun asil aylizli olan bu oburu master gitti 
 
 ayliz ikinci deneme konflikt geliyoooor
+
+
+3.gun 3.denmeeee V7 commit
+
+yaliz  branch 3.gun deneme1
+
+3.gun asil aylizli olan bu oburu master gitti 
+
+master 2.ekleme
+
+
+
