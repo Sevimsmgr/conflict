@@ -15,3 +15,5 @@ branch ekleme
 3.gun ikinci denemeeeee
 
 3.gun asil aylizli olan bu oburu master gitti 
+
+ayliz ikinci deneme konflikt geliyoooor
